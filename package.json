@@ -24,7 +24,7 @@
     "discord-buttons": "^2.4.1",
     "discord.js": "^13.6.0",
     "dotenv": "^8.2.0",
-    "fix": "^0.0.3",
+    "fix": "^0.0.6",
     "fs": "^0.0.1-security",
     "fs-extra": "^9.1.0",
     "fund": "^1.0.0",
