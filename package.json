@@ -22,7 +22,7 @@
     "ddg": "0.0.3",
     "ddg-scraper": "^1.0.2",
     "discord-buttons": "^2.4.1",
-    "discord.js": "^13.6.0",
+    "discord.js": "^14.0.0",
     "dotenv": "^8.2.0",
     "fix": "^0.0.3",
     "fs": "^0.0.1-security",
