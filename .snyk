@@ -8,11 +8,19 @@ patch:
         patched: '2022-10-06T18:00:50.261Z'
     - weather-js > request > hawk:
         patched: '2022-10-06T18:00:50.261Z'
+    - ddg > request > hawk:
+        patched: '2022-10-06T18:01:49.388Z'
+    - weather-js > request > hawk:
+        patched: '2022-10-06T18:01:49.388Z'
   'npm:http-signature:20150122':
     - ddg > request > http-signature:
         patched: '2022-10-06T18:00:50.261Z'
     - weather-js > request > http-signature:
         patched: '2022-10-06T18:00:50.261Z'
+    - ddg > request > http-signature:
+        patched: '2022-10-06T18:01:49.388Z'
+    - weather-js > request > http-signature:
+        patched: '2022-10-06T18:01:49.388Z'
   'npm:mime:20170907':
     - ddg > request > mime:
         patched: '2022-10-06T18:00:50.261Z'
@@ -22,13 +30,29 @@ patch:
         patched: '2022-10-06T18:00:50.261Z'
     - weather-js > request > form-data > mime:
         patched: '2022-10-06T18:00:50.261Z'
+    - ddg > request > mime:
+        patched: '2022-10-06T18:01:49.388Z'
+    - weather-js > request > mime:
+        patched: '2022-10-06T18:01:49.388Z'
+    - ddg > request > form-data > mime:
+        patched: '2022-10-06T18:01:49.388Z'
+    - weather-js > request > form-data > mime:
+        patched: '2022-10-06T18:01:49.388Z'
   'npm:qs:20140806-1':
     - ddg > request > qs:
         patched: '2022-10-06T18:00:50.261Z'
     - weather-js > request > qs:
         patched: '2022-10-06T18:00:50.261Z'
+    - ddg > request > qs:
+        patched: '2022-10-06T18:01:49.388Z'
+    - weather-js > request > qs:
+        patched: '2022-10-06T18:01:49.388Z'
   'npm:request:20160119':
     - ddg > request:
         patched: '2022-10-06T18:00:50.261Z'
     - weather-js > request:
         patched: '2022-10-06T18:00:50.261Z'
+    - ddg > request:
+        patched: '2022-10-06T18:01:49.388Z'
+    - weather-js > request:
+        patched: '2022-10-06T18:01:49.388Z'
